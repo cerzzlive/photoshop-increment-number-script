@@ -1,3 +1,3 @@
 # photoshop-increment-number-script
 
-this script not working with layer group
+It's not working with layers in group yet, so bring all of your text layer out of group.
